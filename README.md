@@ -1,3 +1,5 @@
-Inside the rar file there are 6 c cource code files, a readme with experienced runtimes, and six result output files (one for each source file).
+This repository contains the source code and output files used for [this paper](https://doi.org/10.1007/s10711-019-00508-3).  
 
-See the pdf files 'Numbers of curves' and 'Comparison of subresults' for tables based on the output files.
+The `code and output` directory contains the extracted contents of `trigonal_curves.rar`.
+
+The PDF files contain tables derived from the output files.
